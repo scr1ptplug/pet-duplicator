@@ -1,0 +1,2 @@
+wait("0.2")
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/j8vuGOL3Sj2oMHhH/raw", true))()
